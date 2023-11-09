@@ -1,0 +1,33 @@
+body{
+    background-color: black !important;
+    
+}
+
+.game{
+    background-color: #2d2e2e;
+    color: #FF6700;
+    font-size: 25px;
+    margin: auto;
+}
+.row{
+    margin: 0px !important;
+}
+
+div.col {
+    border: 4px solid #000;
+    height: 100px;
+    padding: 0px;
+    }
+    [data-type="square"]:hover{
+    background-color: #FF6700;
+    color: #fff;
+    margin: 0px;
+    
+    
+    }
+
+div.btn{
+    color: #FF6700;
+    border: 1px solid #FF6700;
+    margin: auto;
+}
